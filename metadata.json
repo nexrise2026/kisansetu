@@ -1,0 +1,6 @@
+{
+  "name": "KisanSetu - Hyperlocal Farmer Trade Engine",
+  "description": "Hyperlocal farmer-to-buyer pooling & direct trade engine for agricultural clusters in Dakshina Kannada and Udupi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
